@@ -1,5 +1,4 @@
 import { useState } from "react";
-import "./assets/index.css";
 
 const styleBoite = () => ({
   display: "flex",
