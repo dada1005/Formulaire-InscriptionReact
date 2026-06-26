@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url('../src/assets/photos/premium_photo-1672883552341-eaebc9240719.avif');
+    background-size: cover;
+    background-position: center;
+}
+.form-control{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+label{
+    display: block;
+    margin-bottom: 5px;
+    color: white;
+    
+}
+
